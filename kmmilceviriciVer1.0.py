@@ -1,5 +1,5 @@
 #ver1.0
-print("Km->Mil çeviriciye hos geldiniz.\n Lutfen Seciniz \n 1) Km-> Mil \n 2)Mil->Km")
+print("Km-Mil çeviriciye hos geldiniz.\n Lutfen Seciniz \n 1) Km-> Mil \n 2)Mil->Km")
 ss=int(input("Seçiminizi yaziniz :"))
 if(ss==1):
     sayi=int(input("Km'yi giriniz :"))
